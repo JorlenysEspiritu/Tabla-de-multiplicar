@@ -1,0 +1,10 @@
+C:\Users\jorle\source\repos\tabla\tabla\bin\Debug\tabla.exe.config
+C:\Users\jorle\source\repos\tabla\tabla\bin\Debug\tabla.exe
+C:\Users\jorle\source\repos\tabla\tabla\bin\Debug\tabla.pdb
+C:\Users\jorle\source\repos\tabla\tabla\obj\Debug\tabla.csproj.AssemblyReference.cache
+C:\Users\jorle\source\repos\tabla\tabla\obj\Debug\tabla.Form1.resources
+C:\Users\jorle\source\repos\tabla\tabla\obj\Debug\tabla.Properties.Resources.resources
+C:\Users\jorle\source\repos\tabla\tabla\obj\Debug\tabla.csproj.GenerateResource.cache
+C:\Users\jorle\source\repos\tabla\tabla\obj\Debug\tabla.csproj.CoreCompileInputs.cache
+C:\Users\jorle\source\repos\tabla\tabla\obj\Debug\tabla.exe
+C:\Users\jorle\source\repos\tabla\tabla\obj\Debug\tabla.pdb
